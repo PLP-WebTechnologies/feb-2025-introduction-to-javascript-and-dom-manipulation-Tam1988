@@ -9,5 +9,5 @@ const button = document.getElementById("btn");
   const welcome = document.getElementById("welcome");
 
   button.addEventListener("click", () => {
-    welcome.textContent = "You clicked the button!";
+    welcome.textContent = "You clicked the button! Thank You For Your Review.";
   });
